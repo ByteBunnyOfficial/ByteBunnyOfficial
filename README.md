@@ -40,7 +40,7 @@
 ```python
 class ByteBunny:
     def __init__(self):
-        self.creator = "driizzyy"
+        self.creator = "driizzyy, mr devil c137"
         self.purpose = "Discord Automation Excellence"
         self.features = [
             "Advanced Message Management",
@@ -306,5 +306,6 @@ graph TD
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
 </p>
+
 
 </div>
