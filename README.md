@@ -128,120 +128,12 @@ ByteBunny Features:
 
 ---
 
-## 📈 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=driizzyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ff6b9d&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driizzyy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=driizzyy&theme=radical&hide_border=true&background=0d1117&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🎨 **Project Showcase**
-
-<div align="center">
-
-<a href="https://github.com/driizzyy/ByteBunny-SelfBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=driizzyy&repo=ByteBunny-SelfBot&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9" />
-</a>
-
-</div>
-
 ### 🏆 **Repository Highlights**
 
 - **🐰 ByteBunny-SelfBot**: Advanced Discord automation suite
 - **⚙️ ByteBunny-Config**: Configuration management system  
 - **🔌 ByteBunny-Plugins**: Extensible plugin ecosystem
 - **📚 ByteBunny-Docs**: Comprehensive documentation
-
----
-
-## 🎯 **Activity & Contributions**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=driizzyy&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=c9d1d9" width="100%"/>
-
-</div>
-
----
-
-## 👥 **Meet The Development Team**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔥 **driizzyy**
-**Lead Developer & Architect**
-
-<img src="https://img.shields.io/badge/Role-Lead%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
-<img src="https://img.shields.io/badge/Focus-Core%20Systems-ff6b9d?style=for-the-badge" alt="Focus"/>
-
-*Specializes in core architecture, performance optimization, and system design*
-
-</td>
-<td align="center" width="50%">
-
-### 😈 **mr.devil.c137**
-**Co-Developer & Security Expert**
-
-<img src="https://img.shields.io/badge/Role-Co%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
-<img src="https://img.shields.io/badge/Focus-Security%20%26%20Features-ff6b9d?style=for-the-badge" alt="Focus"/>
-
-*Focuses on security implementations, feature development, and automation systems*
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 👥 **Meet The Development Team**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔥 **driizzyy**
-**Lead Developer & Architect**
-
-<img src="https://img.shields.io/badge/Role-Lead%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
-<img src="https://img.shields.io/badge/Focus-Core%20Systems-ff6b9d?style=for-the-badge" alt="Focus"/>
-
-*Specializes in core architecture, performance optimization, and system design*
-
-</td>
-<td align="center" width="50%">
-
-### 😈 **mr.devil.c137**
-**Co-Developer & Security Expert**
-
-<img src="https://img.shields.io/badge/Role-Co%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
-<img src="https://img.shields.io/badge/Focus-Security%20%26%20Features-ff6b9d?style=for-the-badge" alt="Focus"/>
-
-*Focuses on security implementations, feature development, and automation systems*
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -309,15 +201,6 @@ ByteBunny Features:
 <tr>
 <td align="center">
 
-**🔥 Contribution Stats**
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=driizzyy&theme=radical" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
 **⏰ Productive Hours**
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=driizzyy&theme=radical&utcOffset=8" width="100%"/>
@@ -335,28 +218,6 @@ ByteBunny Features:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=driizzyy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-</div>
-
----
-
-## 🌈 **Profile Views & Visitors**
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=driizzyy&color=ff6b9d&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-<img src="https://visitcount.itsvg.in/api?id=driizzyy&icon=2&color=9" alt="Visit Count"/>
-
-</div>
-
----
-
-## 📜 **Code Philosophy**
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic&author=driizzyy%20%26%20mr.devil.c137" />
 
 </div>
 
@@ -397,12 +258,6 @@ graph TD
 ---
 
 <div align="center">
-
-## 🎵 **Current Vibe**
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=driizzyy&count=1&unique=true" width="300" />
-
----
 
 ### 🚀 **"Building the future of Discord automation, one commit at a time"**
 
