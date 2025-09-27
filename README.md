@@ -146,9 +146,9 @@ ByteBunny Features:
 <td align="center" width="50%">
 
 ### 🔥 **driizzyy**
-**Lead Developer & Architect**
+**Co-Developer & Architect**
 
-<img src="https://img.shields.io/badge/Role-Lead%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
+<img src="https://img.shields.io/badge/Role-Co%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
 <img src="https://img.shields.io/badge/Focus-Core%20Systems-ff6b9d?style=for-the-badge" alt="Focus"/>
 
 *Specializes in core architecture, performance optimization, and system design*
@@ -157,9 +157,9 @@ ByteBunny Features:
 <td align="center" width="50%">
 
 ### 😈 **mr.devil.c137**
-**Co-Developer & Security Expert**
+**Lead Developer & Security Expert**
 
-<img src="https://img.shields.io/badge/Role-Co%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
+<img src="https://img.shields.io/badge/Role-Lead%20Developer-ff6b9d?style=for-the-badge" alt="Role"/>
 <img src="https://img.shields.io/badge/Focus-Security%20%26%20Features-ff6b9d?style=for-the-badge" alt="Focus"/>
 
 *Focuses on security implementations, feature development, and automation systems*
@@ -270,3 +270,4 @@ graph TD
 </p>
 
 </div>
+
